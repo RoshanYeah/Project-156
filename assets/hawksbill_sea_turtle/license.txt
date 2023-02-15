@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hawksbill Sea Turtle
+* source:	https://sketchfab.com/3d-models/hawksbill-sea-turtle-b7294b6b1ad64cc6b624f1185be8523e
+* author:	Auckland Museum (https://sketchfab.com/aucklandmuseum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hawksbill Sea Turtle" (https://sketchfab.com/3d-models/hawksbill-sea-turtle-b7294b6b1ad64cc6b624f1185be8523e) by Auckland Museum (https://sketchfab.com/aucklandmuseum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

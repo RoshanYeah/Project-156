@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirate A Chest A
+* source:	https://sketchfab.com/3d-models/pirate-a-chest-a-94c560bc25c34d4caeabb217bafeb467
+* author:	Tristan (https://sketchfab.com/tristanclarysse)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirate A Chest A" (https://sketchfab.com/3d-models/pirate-a-chest-a-94c560bc25c34d4caeabb217bafeb467) by Tristan (https://sketchfab.com/tristanclarysse) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
